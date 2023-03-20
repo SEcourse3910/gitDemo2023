@@ -3,4 +3,8 @@ I like dog.
 
 I also like a cat.
 
+<<<<<<< HEAD
 I like green.
+=======
+I like red.
+>>>>>>> 1cba1595bcc0032e2bc4b60f0e14e2afa5864d7d
